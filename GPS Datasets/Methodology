@@ -1,0 +1,19 @@
+These datasets were collected as part of our 30.007 project, and are available as .txt files as well as .kml files (converted from .txt)
+
+Hardware:
+The GPS Module used was the GY-NEO 6M V2 GPS module w/ Antenna, as in https://www.robot-r-us.com/gps-module/gy-neo-6m-v2-gps-module-w/-antenna.html
+The GPS Module was mounted on a Carbon Fibre Frame with 3M Mounting Tape, with direct LoS to the sky
+
+Movement:
+The Robot was pushed on a trolley at (hopefully) somewhat constant velocity by me
+
+Software:
+The GPS Module was hooked up to a Teensy 3.5 
+Initialisation of the GPS module was done with the UBlox Sample Code that can be found on the Arduino Website (https://playground.arduino.cc/UBlox/GPS/)
+Parameters were set to: Automotive Mode, 4Hz
+GPS messages were parsed with the TinyGPS++ library
+GPS coordinates were logged to a .txt file whenever there was a difference between the currently read coordinate and the last written coordinate
+The .txt file resided on a MicroSD Card on the Teensy, should this information be useful
+
+WARNING:
+This is RAW GPS Data, DO NOT use this for any applications that may involve lives
