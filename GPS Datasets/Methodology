@@ -12,6 +12,7 @@ Software:
 The GPS Module was hooked up to a Teensy 3.5 
 Initialisation of the GPS module was done with the UBlox Sample Code that can be found on the Arduino Website (https://playground.arduino.cc/UBlox/GPS/)
 Parameters were set to: Automotive Mode, 4Hz
+GPS coordinates were acquired to 6 decimal points, giving it a maximum theoretical precision of ~11cm
 GPS messages were parsed with the TinyGPS++ library
 (For SUTD_Track_Lane_4_Raw_GPS):
 GPS coordinates were logged to a .txt file whenever there was a difference between the currently read coordinate and the last written coordinate
