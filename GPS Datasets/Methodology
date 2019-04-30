@@ -1,4 +1,5 @@
 These datasets were collected as part of our 30.007 project, and are available as .txt files as well as .kml files (converted from .txt)
+The .PNG files aim to give potential users a visualisation of the GPS Waypoints
 
 Hardware:
 The GPS Module used was the GY-NEO 6M V2 GPS module w/ Antenna, as in https://www.robot-r-us.com/gps-module/gy-neo-6m-v2-gps-module-w/-antenna.html
