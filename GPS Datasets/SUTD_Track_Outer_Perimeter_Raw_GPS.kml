@@ -1,0 +1,1228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SUTD_Track_Outer_Perimeter_Raw_GPS" id="SUTD_Track_Outer_Perimeter_Raw_GPS">
+	<SimpleField name="lat" type="float"></SimpleField>
+	<SimpleField name="lon" type="float"></SimpleField>
+</Schema>
+<Folder><name>SUTD_Track_Outer_Perimeter_Raw_GPS</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341155</SimpleData>
+		<SimpleData name="lon">103.964851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964851,1.341155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341154</SimpleData>
+		<SimpleData name="lon">103.964859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964859,1.341154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341156</SimpleData>
+		<SimpleData name="lon">103.964859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964859,1.341156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34115</SimpleData>
+		<SimpleData name="lon">103.964859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964859,1.34115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34115</SimpleData>
+		<SimpleData name="lon">103.964851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964851,1.34115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341153</SimpleData>
+		<SimpleData name="lon">103.964851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964851,1.341153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341154</SimpleData>
+		<SimpleData name="lon">103.964851</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964851,1.341154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341145</SimpleData>
+		<SimpleData name="lon">103.964844</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964844,1.341145</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341143</SimpleData>
+		<SimpleData name="lon">103.964844</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964844,1.341143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341139</SimpleData>
+		<SimpleData name="lon">103.964836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964836,1.341139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341135</SimpleData>
+		<SimpleData name="lon">103.964836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964836,1.341135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341132</SimpleData>
+		<SimpleData name="lon">103.964836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964836,1.341132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34113</SimpleData>
+		<SimpleData name="lon">103.964828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964828,1.34113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341129</SimpleData>
+		<SimpleData name="lon">103.964821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964821,1.341129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341125</SimpleData>
+		<SimpleData name="lon">103.964821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964821,1.341125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341123</SimpleData>
+		<SimpleData name="lon">103.964813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964813,1.341123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341119</SimpleData>
+		<SimpleData name="lon">103.964813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964813,1.341119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34112</SimpleData>
+		<SimpleData name="lon">103.964821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964821,1.34112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341112</SimpleData>
+		<SimpleData name="lon">103.964821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964821,1.341112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341105</SimpleData>
+		<SimpleData name="lon">103.964828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964828,1.341105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341104</SimpleData>
+		<SimpleData name="lon">103.964828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964828,1.341104</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341106</SimpleData>
+		<SimpleData name="lon">103.964828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964828,1.341106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341107</SimpleData>
+		<SimpleData name="lon">103.964828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964828,1.341107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341109</SimpleData>
+		<SimpleData name="lon">103.964828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964828,1.341109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341107</SimpleData>
+		<SimpleData name="lon">103.964821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964821,1.341107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341108</SimpleData>
+		<SimpleData name="lon">103.964813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964813,1.341108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341105</SimpleData>
+		<SimpleData name="lon">103.964813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964813,1.341105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341081</SimpleData>
+		<SimpleData name="lon">103.964798</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964798,1.341081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34105</SimpleData>
+		<SimpleData name="lon">103.964775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964775,1.34105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341041</SimpleData>
+		<SimpleData name="lon">103.964767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964767,1.341041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341026</SimpleData>
+		<SimpleData name="lon">103.96476</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.96476,1.341026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341021</SimpleData>
+		<SimpleData name="lon">103.96476</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.96476,1.341021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341006</SimpleData>
+		<SimpleData name="lon">103.964752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964752,1.341006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34099</SimpleData>
+		<SimpleData name="lon">103.964737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964737,1.34099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340965</SimpleData>
+		<SimpleData name="lon">103.964729</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964729,1.340965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340941</SimpleData>
+		<SimpleData name="lon">103.964722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964722,1.340941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340913</SimpleData>
+		<SimpleData name="lon">103.964706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964706,1.340913</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340884</SimpleData>
+		<SimpleData name="lon">103.964706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964706,1.340884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340857</SimpleData>
+		<SimpleData name="lon">103.964706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964706,1.340857</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340834</SimpleData>
+		<SimpleData name="lon">103.964706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964706,1.340834</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340813</SimpleData>
+		<SimpleData name="lon">103.964706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964706,1.340813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34079</SimpleData>
+		<SimpleData name="lon">103.964706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964706,1.34079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340776</SimpleData>
+		<SimpleData name="lon">103.964706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964706,1.340776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34074</SimpleData>
+		<SimpleData name="lon">103.964714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964714,1.34074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340711</SimpleData>
+		<SimpleData name="lon">103.964722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964722,1.340711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34068</SimpleData>
+		<SimpleData name="lon">103.964729</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964729,1.34068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340665</SimpleData>
+		<SimpleData name="lon">103.964737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964737,1.340665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340633</SimpleData>
+		<SimpleData name="lon">103.964752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964752,1.340633</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340602</SimpleData>
+		<SimpleData name="lon">103.964767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964767,1.340602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340575</SimpleData>
+		<SimpleData name="lon">103.964783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964783,1.340575</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34056</SimpleData>
+		<SimpleData name="lon">103.964798</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964798,1.34056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340536</SimpleData>
+		<SimpleData name="lon">103.964821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964821,1.340536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340509</SimpleData>
+		<SimpleData name="lon">103.964844</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964844,1.340509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340478</SimpleData>
+		<SimpleData name="lon">103.964874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964874,1.340478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340454</SimpleData>
+		<SimpleData name="lon">103.964905</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964905,1.340454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340433</SimpleData>
+		<SimpleData name="lon">103.964935</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964935,1.340433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340413</SimpleData>
+		<SimpleData name="lon">103.964973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964973,1.340413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340402</SimpleData>
+		<SimpleData name="lon">103.965004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965004,1.340402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340388</SimpleData>
+		<SimpleData name="lon">103.96505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.96505,1.340388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340387</SimpleData>
+		<SimpleData name="lon">103.965065</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965065,1.340387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340388</SimpleData>
+		<SimpleData name="lon">103.965088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965088,1.340388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340389</SimpleData>
+		<SimpleData name="lon">103.965103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965103,1.340389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340391</SimpleData>
+		<SimpleData name="lon">103.965134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965134,1.340391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340393</SimpleData>
+		<SimpleData name="lon">103.965157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965157,1.340393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340397</SimpleData>
+		<SimpleData name="lon">103.965179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965179,1.340397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340401</SimpleData>
+		<SimpleData name="lon">103.965202</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965202,1.340401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340405</SimpleData>
+		<SimpleData name="lon">103.96521</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.96521,1.340405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340409</SimpleData>
+		<SimpleData name="lon">103.965233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965233,1.340409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340419</SimpleData>
+		<SimpleData name="lon">103.965263</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965263,1.340419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340425</SimpleData>
+		<SimpleData name="lon">103.965279</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965279,1.340425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340431</SimpleData>
+		<SimpleData name="lon">103.965294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965294,1.340431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340437</SimpleData>
+		<SimpleData name="lon">103.965309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965309,1.340437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340448</SimpleData>
+		<SimpleData name="lon">103.965332</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965332,1.340448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.3405</SimpleData>
+		<SimpleData name="lon">103.965408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965408,1.3405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340526</SimpleData>
+		<SimpleData name="lon">103.965431</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965431,1.340526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340543</SimpleData>
+		<SimpleData name="lon">103.965454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965454,1.340543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340566</SimpleData>
+		<SimpleData name="lon">103.965477</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965477,1.340566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340585</SimpleData>
+		<SimpleData name="lon">103.965492</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965492,1.340585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340598</SimpleData>
+		<SimpleData name="lon">103.965508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965508,1.340598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340614</SimpleData>
+		<SimpleData name="lon">103.965523</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965523,1.340614</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340652</SimpleData>
+		<SimpleData name="lon">103.965561</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965561,1.340652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340667</SimpleData>
+		<SimpleData name="lon">103.965576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965576,1.340667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340701</SimpleData>
+		<SimpleData name="lon">103.965614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965614,1.340701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340721</SimpleData>
+		<SimpleData name="lon">103.965637</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965637,1.340721</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340733</SimpleData>
+		<SimpleData name="lon">103.965645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965645,1.340733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340745</SimpleData>
+		<SimpleData name="lon">103.96566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.96566,1.340745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34076</SimpleData>
+		<SimpleData name="lon">103.965675</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965675,1.34076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340774</SimpleData>
+		<SimpleData name="lon">103.965683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965683,1.340774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340785</SimpleData>
+		<SimpleData name="lon">103.965698</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965698,1.340785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340815</SimpleData>
+		<SimpleData name="lon">103.965729</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965729,1.340815</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340824</SimpleData>
+		<SimpleData name="lon">103.965736</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965736,1.340824</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34083</SimpleData>
+		<SimpleData name="lon">103.965744</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965744,1.34083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340848</SimpleData>
+		<SimpleData name="lon">103.965767</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965767,1.340848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340881</SimpleData>
+		<SimpleData name="lon">103.965797</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965797,1.340881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340909</SimpleData>
+		<SimpleData name="lon">103.965828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965828,1.340909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34095</SimpleData>
+		<SimpleData name="lon">103.965866</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965866,1.34095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.340985</SimpleData>
+		<SimpleData name="lon">103.965904</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965904,1.340985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341011</SimpleData>
+		<SimpleData name="lon">103.965935</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965935,1.341011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341049</SimpleData>
+		<SimpleData name="lon">103.965973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965973,1.341049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341081</SimpleData>
+		<SimpleData name="lon">103.965996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965996,1.341081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34112</SimpleData>
+		<SimpleData name="lon">103.966026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.966026,1.34112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341134</SimpleData>
+		<SimpleData name="lon">103.966034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.966034,1.341134</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341161</SimpleData>
+		<SimpleData name="lon">103.966049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.966049,1.341161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341197</SimpleData>
+		<SimpleData name="lon">103.966057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.966057,1.341197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341256</SimpleData>
+		<SimpleData name="lon">103.96608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.96608,1.341256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341303</SimpleData>
+		<SimpleData name="lon">103.96608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.96608,1.341303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341351</SimpleData>
+		<SimpleData name="lon">103.96608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.96608,1.341351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341388</SimpleData>
+		<SimpleData name="lon">103.966072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.966072,1.341388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341427</SimpleData>
+		<SimpleData name="lon">103.966064</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.966064,1.341427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341468</SimpleData>
+		<SimpleData name="lon">103.966064</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.966064,1.341468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341509</SimpleData>
+		<SimpleData name="lon">103.966049</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.966049,1.341509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341554</SimpleData>
+		<SimpleData name="lon">103.966026</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.966026,1.341554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34161</SimpleData>
+		<SimpleData name="lon">103.965996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965996,1.34161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341656</SimpleData>
+		<SimpleData name="lon">103.965958</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965958,1.341656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341694</SimpleData>
+		<SimpleData name="lon">103.965919</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965919,1.341694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34171</SimpleData>
+		<SimpleData name="lon">103.965897</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965897,1.34171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341733</SimpleData>
+		<SimpleData name="lon">103.965866</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965866,1.341733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341745</SimpleData>
+		<SimpleData name="lon">103.965843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965843,1.341745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341765</SimpleData>
+		<SimpleData name="lon">103.965797</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965797,1.341765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341771</SimpleData>
+		<SimpleData name="lon">103.965775</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965775,1.341771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341779</SimpleData>
+		<SimpleData name="lon">103.965752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965752,1.341779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341784</SimpleData>
+		<SimpleData name="lon">103.965721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965721,1.341784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341786</SimpleData>
+		<SimpleData name="lon">103.965698</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965698,1.341786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341788</SimpleData>
+		<SimpleData name="lon">103.965675</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965675,1.341788</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341786</SimpleData>
+		<SimpleData name="lon">103.965645</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965645,1.341786</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341785</SimpleData>
+		<SimpleData name="lon">103.965622</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965622,1.341785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341783</SimpleData>
+		<SimpleData name="lon">103.965591</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965591,1.341783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341773</SimpleData>
+		<SimpleData name="lon">103.965546</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965546,1.341773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341765</SimpleData>
+		<SimpleData name="lon">103.965523</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965523,1.341765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341743</SimpleData>
+		<SimpleData name="lon">103.965485</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965485,1.341743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341731</SimpleData>
+		<SimpleData name="lon">103.965462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965462,1.341731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341716</SimpleData>
+		<SimpleData name="lon">103.965439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965439,1.341716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341701</SimpleData>
+		<SimpleData name="lon">103.965424</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965424,1.341701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341691</SimpleData>
+		<SimpleData name="lon">103.965408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965408,1.341691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341656</SimpleData>
+		<SimpleData name="lon">103.965363</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965363,1.341656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341652</SimpleData>
+		<SimpleData name="lon">103.965355</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965355,1.341652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341629</SimpleData>
+		<SimpleData name="lon">103.965324</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965324,1.341629</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341615</SimpleData>
+		<SimpleData name="lon">103.965309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965309,1.341615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341602</SimpleData>
+		<SimpleData name="lon">103.965294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965294,1.341602</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341586</SimpleData>
+		<SimpleData name="lon">103.965271</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965271,1.341586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34157</SimpleData>
+		<SimpleData name="lon">103.965248</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965248,1.34157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341549</SimpleData>
+		<SimpleData name="lon">103.965225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965225,1.341549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341542</SimpleData>
+		<SimpleData name="lon">103.965218</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965218,1.341542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341512</SimpleData>
+		<SimpleData name="lon">103.965195</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965195,1.341512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341497</SimpleData>
+		<SimpleData name="lon">103.965179</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965179,1.341497</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34148</SimpleData>
+		<SimpleData name="lon">103.965164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965164,1.34148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341437</SimpleData>
+		<SimpleData name="lon">103.965118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965118,1.341437</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341416</SimpleData>
+		<SimpleData name="lon">103.965096</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965096,1.341416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341392</SimpleData>
+		<SimpleData name="lon">103.965073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965073,1.341392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341367</SimpleData>
+		<SimpleData name="lon">103.965057</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965057,1.341367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341345</SimpleData>
+		<SimpleData name="lon">103.965042</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965042,1.341345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341318</SimpleData>
+		<SimpleData name="lon">103.965027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965027,1.341318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341298</SimpleData>
+		<SimpleData name="lon">103.965019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.965019,1.341298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341264</SimpleData>
+		<SimpleData name="lon">103.964981</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964981,1.341264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341248</SimpleData>
+		<SimpleData name="lon">103.964966</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964966,1.341248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341229</SimpleData>
+		<SimpleData name="lon">103.964943</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964943,1.341229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341215</SimpleData>
+		<SimpleData name="lon">103.964928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964928,1.341215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.34119</SimpleData>
+		<SimpleData name="lon">103.96489</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.96489,1.34119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341172</SimpleData>
+		<SimpleData name="lon">103.964859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964859,1.341172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341175</SimpleData>
+		<SimpleData name="lon">103.964859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964859,1.341175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341189</SimpleData>
+		<SimpleData name="lon">103.964836</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964836,1.341189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341171</SimpleData>
+		<SimpleData name="lon">103.964828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964828,1.341171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341162</SimpleData>
+		<SimpleData name="lon">103.964828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964828,1.341162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341161</SimpleData>
+		<SimpleData name="lon">103.964821</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964821,1.341161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341164</SimpleData>
+		<SimpleData name="lon">103.964813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964813,1.341164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341172</SimpleData>
+		<SimpleData name="lon">103.964806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964806,1.341172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341182</SimpleData>
+		<SimpleData name="lon">103.96479</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.96479,1.341182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341182</SimpleData>
+		<SimpleData name="lon">103.964783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964783,1.341182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341183</SimpleData>
+		<SimpleData name="lon">103.964783</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964783,1.341183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341173</SimpleData>
+		<SimpleData name="lon">103.964813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964813,1.341173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341177</SimpleData>
+		<SimpleData name="lon">103.964813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964813,1.341177</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341186</SimpleData>
+		<SimpleData name="lon">103.964813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964813,1.341186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.341197</SimpleData>
+		<SimpleData name="lon">103.964806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964806,1.341197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SUTD_Track_Outer_Perimeter_Raw_GPS">
+		<SimpleData name="lat">1.3412</SimpleData>
+		<SimpleData name="lon">103.964806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.964806,1.3412</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
