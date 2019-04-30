@@ -12,8 +12,13 @@ The GPS Module was hooked up to a Teensy 3.5
 Initialisation of the GPS module was done with the UBlox Sample Code that can be found on the Arduino Website (https://playground.arduino.cc/UBlox/GPS/)
 Parameters were set to: Automotive Mode, 4Hz
 GPS messages were parsed with the TinyGPS++ library
+(For SUTD_Track_Lane_4_Raw_GPS):
 GPS coordinates were logged to a .txt file whenever there was a difference between the currently read coordinate and the last written coordinate
 The .txt file resided on a MicroSD Card on the Teensy, should this information be useful
+(For SUTD_Track_Outer_Perimeter_Raw_GPS):
+GPS coordinates were sent through UART to a Raspberry Pi Zero and uploaded to an IoT Dashboard via a Python Script at intervals of about 1s
+Data was formatted and duplicate coordinates were removed in Excel
+*it is to be noted that this experiment was conducted in a more haphazard manner, beginning and ending at the Spectator Stand, with intrusions into track lanes and spectator stand area
 
 WARNING:
 This is RAW GPS Data, DO NOT use this for any applications that may involve lives
